@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class Year {
 
@@ -26,7 +27,8 @@ public class Year {
 
         System.out.println(nextYear);
         
-        
+        sc.close();
     }
     
 }
+//https://codeforces.com/contest/271/problem/A

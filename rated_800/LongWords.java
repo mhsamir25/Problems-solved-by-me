@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 
 public class LongWords {
@@ -22,5 +23,7 @@ public class LongWords {
                 System.out.println(res);
             }
             }
+            sc.close();
         }
     }
+//https://codeforces.com/contest/71/problem/A

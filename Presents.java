@@ -17,5 +17,6 @@ public class Presents {
         for(int r: results){
             System.out.print(r+" ");
         }
+        sc.close();
     }
 }

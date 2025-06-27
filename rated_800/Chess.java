@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 
 public class Chess {
@@ -33,5 +34,7 @@ public class Chess {
                 System.out.println("Friendship");
             }
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/734/problem/A

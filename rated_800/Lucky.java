@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 
 public class Lucky {
@@ -23,5 +24,7 @@ public class Lucky {
         else{
             System.out.println("NO");
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/110/problem/A

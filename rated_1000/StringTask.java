@@ -1,3 +1,4 @@
+package rated_1000;
 import java.util.Scanner;
 
 public class StringTask{
@@ -16,5 +17,7 @@ public class StringTask{
         }
 
         System.out.println(result);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/118/problem/A

@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class Tram {
     public static void main(String[] args){
@@ -40,5 +41,7 @@ public class Tram {
         }
 
         System.out.println(max);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/116/problem/A

@@ -43,5 +43,6 @@ public class Proxy {
             System.out.print(r+" ");
         }
         System.out.println();
+        sc.close();
     }
 }

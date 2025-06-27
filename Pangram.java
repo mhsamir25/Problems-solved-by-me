@@ -23,6 +23,6 @@ public class Pangram {
         else{
             System.out.println("Invalid Input");
         }
-
+        sc.close();
     }
 }
