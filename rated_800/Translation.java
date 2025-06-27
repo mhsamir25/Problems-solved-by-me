@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Translation {
     public static boolean equal(boolean[] arr){
@@ -35,5 +36,7 @@ public class Translation {
         else{
             System.out.println("NO");
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/41/problem/A

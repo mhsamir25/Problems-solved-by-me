@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class ShortSort {
     public static void main(String[] args){
@@ -33,5 +34,7 @@ public class ShortSort {
                     break;
             }
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/1873/problem/A

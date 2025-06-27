@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class GoodKid {
     public static void main(String[] args){
@@ -27,5 +28,7 @@ public class GoodKid {
                 System.out.println(result);
             }
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/1873/problem/B

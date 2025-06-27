@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Eraser{
     public static void main(String[] args){
@@ -29,6 +30,7 @@ public class Eraser{
         for(int r: results){
             System.out.println(r);
         }
-        
+        sc.close();
     }
 }
+//https://codeforces.com/contest/1873/problem/D

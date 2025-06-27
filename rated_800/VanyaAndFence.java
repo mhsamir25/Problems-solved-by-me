@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class VanyaAndFence {
     public static void main(String[] args){
@@ -20,5 +21,7 @@ public class VanyaAndFence {
         }
 
         System.out.println(count);
+        sc.close();    
     }
 }
+//https://codeforces.com/contest/677/problem/A

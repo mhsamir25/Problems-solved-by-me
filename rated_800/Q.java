@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class Q {
     public static void main(String[] args){
@@ -18,5 +19,7 @@ public class Q {
         }
         
         System.out.println(new String(ch));
+        sc.close();
     }
 }
+//https://codeforces.com/contest/266/problem/B
