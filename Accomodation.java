@@ -16,3 +16,5 @@ public class Accomodation {
         System.out.println(count);
     }
 }
+
+// Problem link: https://codeforces.com/contest/467/problem/A
