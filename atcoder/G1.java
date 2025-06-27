@@ -1,3 +1,4 @@
+package atcoder;
 import java.util.*;
 public class G1 {
     public static void main(String[] args){
@@ -18,5 +19,7 @@ public class G1 {
         }
 
         System.out.println(count);
+        sc.close();
     }
 }
+//https://atcoder.jp/contests/abc410/tasks/abc410_a

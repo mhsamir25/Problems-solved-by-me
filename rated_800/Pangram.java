@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Pangram {
     public static void main(String[] args){
@@ -26,3 +27,4 @@ public class Pangram {
         sc.close();
     }
 }
+//https://codeforces.com/contest/520/problem/A

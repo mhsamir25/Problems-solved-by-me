@@ -1,3 +1,4 @@
+package atcoder;
 import java.util.*;
 public class Proxy {
     public static void main(String[] args){
@@ -46,3 +47,4 @@ public class Proxy {
         sc.close();
     }
 }
+//https://atcoder.jp/contests/abc410/tasks/abc410_b

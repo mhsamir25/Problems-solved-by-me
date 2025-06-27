@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Games {
     public static void main(String[] args){
@@ -22,5 +23,7 @@ public class Games {
         }
 
         System.out.println(count);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/268/problem/A

@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Round {
     public static void main(String[] args){
@@ -24,5 +25,7 @@ public class Round {
         else{
             System.out.println("Invalid input");
         }
+        sc.close();
 }
 }
+//https://codeforces.com/contest/158/problem/A

@@ -1,3 +1,4 @@
+package rated_1300;
 import java.util.*;
 public class IqTest {
     public static void main(String[] args){
@@ -33,5 +34,7 @@ public class IqTest {
         }
 
         System.out.println(index);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/25/problem/A

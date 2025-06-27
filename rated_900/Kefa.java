@@ -1,3 +1,4 @@
+package rated_900;
 import java.util.*;
 public class Kefa {
     public static void main(String[] args){
@@ -20,5 +21,7 @@ public class Kefa {
         }
 
         System.out.println(max_l);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/580/problem/A

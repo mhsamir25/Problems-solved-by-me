@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 
 public class Joke {
@@ -25,5 +26,7 @@ public class Joke {
         else{
             System.out.println("NO");
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/141/problem/A

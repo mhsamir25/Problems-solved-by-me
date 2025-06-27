@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Polyhedron {
     public static void main(String[]args){
@@ -31,5 +32,7 @@ public class Polyhedron {
         }
 
         System.out.println(count);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/785/problem/A

@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class CodeforcesChecking {
     public static void main(String[] args){
@@ -43,5 +44,7 @@ public class CodeforcesChecking {
         for(String r: result){
             System.out.println(r);
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/1791/problem/A

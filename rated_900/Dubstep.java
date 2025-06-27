@@ -1,3 +1,4 @@
+package rated_900;
 import java.util.*;
 public class Dubstep {
     public static void main(String[] args){
@@ -11,5 +12,7 @@ public class Dubstep {
             System.out.print(arr[i]+" ");
         }
     }
+    sc.close();
     }
 }
+//https://codeforces.com/contest/208/problem/A

@@ -1,3 +1,4 @@
+package random;
 import java.util.*;
 public class five {
     public static void main(String[] args){
@@ -20,5 +21,7 @@ public class five {
         else{
             System.out.println("NO");
         }
+        sc.close();
     }
 }
+//n is a given number...determine if n can be expressed as the power of 5

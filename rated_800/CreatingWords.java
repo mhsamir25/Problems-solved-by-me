@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class CreatingWords {
     public static void main(String[] args){
@@ -19,5 +20,7 @@ public class CreatingWords {
             
             System.out.println(newA + " "+ newB);
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/1985/problem/A

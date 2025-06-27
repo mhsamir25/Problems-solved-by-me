@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class YESorYES {
     public static void main(String[] args){
@@ -19,5 +20,7 @@ public class YESorYES {
         for(String r: result){
             System.out.println(r);
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/1703/problem/A

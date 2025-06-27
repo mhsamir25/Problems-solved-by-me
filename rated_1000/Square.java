@@ -1,3 +1,4 @@
+package rated_1000;
 import java.util.*;
 public class Square {
     public static void main(String[] args){
@@ -13,5 +14,7 @@ public class Square {
         long result = length*width;
 
         System.out.println(result);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/1/problem/A

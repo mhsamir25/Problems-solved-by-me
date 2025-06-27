@@ -1,3 +1,4 @@
+package rated_1000;
 import java.util.*;
 
 public class Caps {
@@ -37,3 +38,4 @@ public class Caps {
         return true;
     }
 }
+//https://codeforces.com/contest/131/problem/A

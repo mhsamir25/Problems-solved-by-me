@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Sum {
     public static void main(String[] args){
@@ -26,5 +27,7 @@ public class Sum {
         for(String s: result){
             System.out.println(s);
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/1742/problem/A

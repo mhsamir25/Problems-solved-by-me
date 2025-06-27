@@ -22,6 +22,7 @@ public class Easy {
         else{
             System.out.println("Invalid Input");
         }
+        sc.close();
     }
 }
 //https://codeforces.com/contest/1030/problem/A

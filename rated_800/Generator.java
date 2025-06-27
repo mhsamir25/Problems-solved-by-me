@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Generator {
     public static void main(String[] args){
@@ -17,5 +18,7 @@ public class Generator {
         for(String s: result){
             System.out.println(s);
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/2093/problem/A
