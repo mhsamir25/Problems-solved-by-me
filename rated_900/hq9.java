@@ -8,6 +8,7 @@ public class hq9 {
         for(int i=0;i<ch.length;i++){
             if(ch[i]=='H' || ch[i] == 'Q' || ch[i] == '9'){
                 System.out.println("YES");
+                sc.close();
                 return;
             }
         }

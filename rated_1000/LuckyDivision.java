@@ -21,6 +21,7 @@ public class LuckyDivision {
         for(int i=1;i<=n;i++){
             if(isLucky(i) && n%i==0){
                 System.out.println("YES");
+                sc.close();
                 return;
             }
         }
