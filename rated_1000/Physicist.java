@@ -1,3 +1,4 @@
+package rated_1000;
 import java.util.Scanner;
 public class Physicist {
     public static void main(String[] args){
@@ -28,6 +29,7 @@ public class Physicist {
         else{
             System.out.println("NO");
         }
-        
+        sc.close();
     }
 }
+//https://codeforces.com/contest/69/problem/A

@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class petyaString {
     public static void main(String[] args){
@@ -30,6 +31,7 @@ public class petyaString {
         else{
             System.out.println("Invalid input");
         }
-
+        sc.close();
     }
 }
+//https://codeforces.com/contest/112/problem/A

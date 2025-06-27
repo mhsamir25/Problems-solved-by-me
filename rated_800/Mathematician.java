@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Mathematician {
     public static void main(String[] args){
@@ -21,3 +22,4 @@ public class Mathematician {
         }
     }
 }
+//https://codeforces.com/contest/61/problem/A

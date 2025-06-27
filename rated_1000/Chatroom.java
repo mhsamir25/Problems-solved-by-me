@@ -1,3 +1,4 @@
+package rated_1000;
 import java.util.Scanner;
 public class Chatroom {
     public static void main(String[] args){
@@ -21,5 +22,7 @@ public class Chatroom {
         else{
             System.out.println("NO");
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/58/problem/A

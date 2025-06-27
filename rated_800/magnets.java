@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class magnets {
     public static void main(String[] args){
@@ -19,5 +20,7 @@ public class magnets {
         }
 
         System.out.println(groups);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/344/problem/A

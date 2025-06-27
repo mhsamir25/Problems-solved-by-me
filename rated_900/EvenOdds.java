@@ -1,3 +1,4 @@
+package rated_900;
 import java.util.Scanner;
 
 public class EvenOdds {
@@ -14,6 +15,7 @@ public class EvenOdds {
         else{
             System.out.println(2*(k-oddCount));
         }
-        
+       sc.close(); 
     }
 }
+//https://codeforces.com/contest/318/problem/A

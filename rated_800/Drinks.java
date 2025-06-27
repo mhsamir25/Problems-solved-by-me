@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class Drinks {
     public static void main(String[] args){
@@ -14,5 +15,7 @@ public class Drinks {
 
         double result = (total/(n*100))*100;
         System.out.printf("%.12f\n", result);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/200/problem/B

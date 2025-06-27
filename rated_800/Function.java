@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Function {
     public static void main(String[] args){
@@ -11,5 +12,7 @@ public class Function {
         else{
             System.out.println(-(n+1)/2);
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/486/problem/A

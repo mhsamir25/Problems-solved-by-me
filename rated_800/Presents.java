@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 
 public class Presents {
@@ -20,3 +21,4 @@ public class Presents {
         sc.close();
     }
 }
+//https://codeforces.com/contest/136/problem/A
