@@ -14,6 +14,7 @@ public class Accomodation {
         }
 
         System.out.println(count);
+        sc.close();
     }
 }
 
