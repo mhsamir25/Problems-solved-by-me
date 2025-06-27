@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class BoyOrGirl{
     public static void main(String[] args){
@@ -23,5 +24,8 @@ public class BoyOrGirl{
             }
             
         }
+        scanner.close();
     }
 }
+
+//Problem Link: https://codeforces.com/contest/236/problem/A

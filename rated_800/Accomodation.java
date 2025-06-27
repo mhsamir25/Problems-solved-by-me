@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class Accomodation {
     public static void main(String[] args){
