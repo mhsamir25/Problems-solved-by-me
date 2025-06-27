@@ -7,6 +7,7 @@ public class five {
 
         if(n<1){
             System.out.println("NO");
+            sc.close();
             return;
         }
 
