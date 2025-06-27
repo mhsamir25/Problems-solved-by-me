@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class Matrix {
     public static void main(String[] args){
@@ -16,5 +17,7 @@ public class Matrix {
 
         int result = Math.abs(row-3)+Math.abs(col-3);
         System.out.println(result);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/263/problem/A

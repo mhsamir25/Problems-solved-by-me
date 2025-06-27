@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class Bit{
     public static void main(String[] main){
@@ -19,5 +20,7 @@ public class Bit{
         }
 
         System.out.println(x);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/282/problem/A

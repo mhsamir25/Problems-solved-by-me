@@ -1,4 +1,6 @@
+package rated_800;
 import java.util.Scanner;
+
 public class Bear {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
@@ -15,3 +17,4 @@ public class Bear {
         sc.close();
     }
 }
+//https://codeforces.com/contest/791/problem/A

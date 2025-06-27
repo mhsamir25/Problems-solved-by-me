@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class domino {
     public static void main(String[] args){
@@ -10,3 +11,4 @@ public class domino {
         sc.close();
     }
 }
+//https://codeforces.com/contest/50/problem/A

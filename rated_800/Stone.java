@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class Stone {
     public static void main(String[] args){
@@ -15,3 +16,4 @@ public class Stone {
         sc.close();
     }
 }
+//https://codeforces.com/contest/266/problem/A

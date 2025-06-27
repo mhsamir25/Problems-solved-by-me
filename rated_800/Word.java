@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class Word {
     public static void main(String[] args){
@@ -26,5 +27,7 @@ public class Word {
             System.out.println(s.trim().toLowerCase());
         }
     }
+    sc.close();
     }
 }
+//https://codeforces.com/contest/59/problem/A

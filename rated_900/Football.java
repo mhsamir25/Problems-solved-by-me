@@ -1,3 +1,4 @@
+package rated_900;
 import java.util.Scanner;
 public class Football {
     public static void main(String[] args){
@@ -13,3 +14,4 @@ public class Football {
         sc.close();
     }
 }
+//https://codeforces.com/contest/96/problem/A

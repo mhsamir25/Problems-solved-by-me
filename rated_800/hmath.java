@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -25,3 +26,4 @@ public class hmath {
         sc.close();
     }
 }
+//Problem link: https://codeforces.com/contest/339/problem/A

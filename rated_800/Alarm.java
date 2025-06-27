@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Alarm {
     public static boolean isAllZeroes(int[] arr){
@@ -61,10 +62,10 @@ public class Alarm {
             for(String res: results){
             System.out.println(res);
         }
-            
+        sc.close();    
         }
 
         
-
+        
     }
-
+//Problem link: https://codeforces.com/contest/2117/problem/A

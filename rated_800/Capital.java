@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 public class Capital {
     public static void main(String[] args){
@@ -19,3 +20,4 @@ public class Capital {
         sc.close();
     }
 }
+//https://codeforces.com/contest/281/problem/A
