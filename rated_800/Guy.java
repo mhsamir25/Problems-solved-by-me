@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Guy {
     public static void main(String[] args){
@@ -36,5 +37,7 @@ public class Guy {
         else{
             System.out.println("Oh, my keyboard!");
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/469/problem/A

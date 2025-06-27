@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.Scanner;
 
 public class Hulk {
@@ -26,5 +27,8 @@ public class Hulk {
         }
 
         System.out.println(result.toString());
+        sc.close();
     }
 }
+
+//https://codeforces.com/contest/705/problem/A

@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Letter {
     public static void main(String[] args){
@@ -16,5 +17,7 @@ public class Letter {
         }
 
         System.out.println(set.size());
+        sc.close();
     }
 }
+//https://codeforces.com/contest/443/problem/A

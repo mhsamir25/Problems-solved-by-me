@@ -1,3 +1,4 @@
+package rated_1000;
 import java.util.Scanner;
 
 public class LuckyDivision {
@@ -13,7 +14,7 @@ public class LuckyDivision {
         return true;
     }
     public static void main(String[] args){
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
         
@@ -25,5 +26,7 @@ public class LuckyDivision {
         }
 
         System.out.println("NO");
+        sc.close();
     }
 }
+//https://codeforces.com/contest/122/problem/A

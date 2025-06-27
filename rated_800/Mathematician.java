@@ -20,6 +20,7 @@ public class Mathematician {
                 System.out.print(r);
             }
         }
+        sc.close();
     }
 }
 //https://codeforces.com/contest/61/problem/A

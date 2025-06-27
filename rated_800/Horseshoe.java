@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Horseshoe {
     public static void main(String[] args){
@@ -11,6 +12,7 @@ public class Horseshoe {
 
         int r = 4-result.size();
         System.out.println(r);
-        
+        sc.close();
     }    
 }
+//https://codeforces.com/contest/228/problem/A

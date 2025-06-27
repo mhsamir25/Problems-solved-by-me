@@ -18,6 +18,7 @@ public class Caps {
         } else {
             System.out.println(s);
         }
+        sc.close();
     }
 
     private static boolean isAllUpperCase(String s) {

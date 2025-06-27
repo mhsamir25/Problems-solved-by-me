@@ -1,3 +1,4 @@
+package rated_1000;
 import java.util.*;
 public class Expression {
     public static void main(String[] args){
@@ -31,5 +32,7 @@ public class Expression {
         else{
             System.out.println("Invalid input");
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/479/problem/A

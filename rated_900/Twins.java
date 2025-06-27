@@ -1,3 +1,4 @@
+package rated_900;
 import java.util.*;
 public class Twins {
     public static void main(String[] args){
@@ -27,5 +28,7 @@ public class Twins {
         }
 
         System.out.println(count);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/160/problem/A

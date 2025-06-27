@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Lottery {
     public static void main(String[] args){
@@ -14,5 +15,7 @@ public class Lottery {
         int ones = n/1;
 
         System.out.println(hun+twenty+ten+five+ones);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/996/problem/A

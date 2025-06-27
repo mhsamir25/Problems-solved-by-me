@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Parade {
     public static void main(String[] args){
@@ -33,5 +34,7 @@ public class Parade {
         }
 
         System.out.println(swaps);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/144/problem/A

@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Easy {
     public static void main(String[] args){
@@ -23,3 +24,4 @@ public class Easy {
         }
     }
 }
+//https://codeforces.com/contest/1030/problem/A

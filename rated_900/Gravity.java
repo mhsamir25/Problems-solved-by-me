@@ -1,3 +1,4 @@
+package rated_900;
 import java.util.*;
 public class Gravity {
     public static void main(String[] args){
@@ -15,5 +16,7 @@ public class Gravity {
         for(int i=1;i<arr.length;i++){
             System.out.print(" "+arr[i]);
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/405/problem/A

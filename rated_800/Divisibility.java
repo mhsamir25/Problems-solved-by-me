@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Divisibility {
     
@@ -17,5 +18,7 @@ public class Divisibility {
         for(int r: result){
             System.out.println(r);
         }
+        sc.close();
     }
 }
+//https://codeforces.com/contest/1328/problem/A

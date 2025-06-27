@@ -1,3 +1,4 @@
+package rated_900;
 import java.util.*;
 public class hq9 {
     public static void main(String[] args){
@@ -12,5 +13,7 @@ public class hq9 {
         }
 
         System.out.println("NO");
+        sc.close();
     }
 }
+//https://codeforces.com/contest/133/problem/A

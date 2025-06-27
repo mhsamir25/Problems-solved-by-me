@@ -1,3 +1,4 @@
+package rated_800;
 import java.util.*;
 public class Insomnia{
     public static void main(String[] args){
@@ -19,5 +20,7 @@ public class Insomnia{
 
 
         System.out.println(count);
+        sc.close();
     }
 }
+//https://codeforces.com/contest/148/problem/A
