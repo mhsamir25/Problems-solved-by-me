@@ -21,10 +21,12 @@ public class Dragons {
             }
             else{
                 System.out.println("NO");
+                sc.close();
                 return;
             }
         }
         System.out.println("YES");
+        sc.close();
     }
 }
 //https://codeforces.com/problemset/problem/230/A
