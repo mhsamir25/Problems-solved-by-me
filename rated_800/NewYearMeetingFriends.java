@@ -13,6 +13,7 @@ public class NewYearMeetingFriends {
 
         int result = Math.abs(median-arr[0])+Math.abs(median-arr[2]);
         System.out.println(result);
+        sc.close();
     }
 }
 //https://codeforces.com/problemset/problem/723/A

@@ -12,11 +12,13 @@ public class Conflict {
             for(int i=0;i<n;i++){
                 if(a.charAt(i)=='o'&& b.charAt(i)=='o'){
                     System.out.println("Yes");
+                    sc.close();
                     return;
                 }
             }
             System.out.println("No");
         }
+        sc.close();
     }
 }
 //https://atcoder.jp/contests/abc409/tasks/abc409_a
