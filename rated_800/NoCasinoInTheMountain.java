@@ -1,7 +1,7 @@
 package rated_800;
 import java.util.*;
 
-public class NoCasinoInTheMountai {
+public class NoCasinoInTheMountain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
