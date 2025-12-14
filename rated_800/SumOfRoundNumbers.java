@@ -32,5 +32,6 @@ public class SumOfRoundNumbers {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
