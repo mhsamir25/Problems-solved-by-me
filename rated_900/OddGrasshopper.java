@@ -14,6 +14,7 @@ public class OddGrasshopper {
         }
 
         System.out.print(sb);
+        sc.close();
     }
 
     static long getFinalPosition(long x, long n) {

@@ -33,5 +33,6 @@ public class WordOnThePaper {
         for(String result: a){
             System.out.println(result);
         }
+        sc.close();
     }
 }
